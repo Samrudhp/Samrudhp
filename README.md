@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🚀 Full-Stack Developer | 💻 MERN STACK | 🤖 AI/ML Explorer<br><br>🔧 Building scalable web solutions with creativity & precision<br>🧠 Passionate about AI integration & cloud computing<br>🤝 Open to collaboration on innovative projects<br><br>⚡ DSA  C++| Backend  | Cloud Architecture
+🤖 AI/ML Enthusiast | 💻 MERN STACK <br><br>🔧 Building scalable web solutions with creativity & precision<br>🧠 Passionate about AI integration & cloud computing<br>🤝 Open to collaboration on innovative projects<br><br>⚡ DSA  C++| Backend  | Cloud Architecture
 
 
 ## 🌐 Socials:
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samrudhp&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samrudhp&theme=midnight-purple&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Samrudhp&theme=midnight-purple&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhp&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
