@@ -40,14 +40,20 @@
 
 ## 🛠️ Tech Toolbox
 
-### 🤖 AI / ML / GenAI
-`Python` •  `PyTorch` • `scikit-learn` • `LangChain` • `NumPy` • `Pandas` • `Matplotlib`  
+### Languages
+`C++` • `Python` • `JavaScript` • `Java` 
+
+### 🤖 AI / ML / DL / GenAI
+`PyTorch` • `scikit-learn` • `LangChain` • `NumPy` • `Pandas` • `Matplotlib`  • `MutliModal AI`
 
 ### ☁️ Cloud & DevOps
-`Azure` • `Docker` • 
+`Azure` • `Docker`  
 
 ### 🌐 Web Development
 `Node.js` • `React` • `Next.js` • `JavaScript` • `MongoDB` • `FastAPI` • `Express JS `
+
+### DataBases
+`MongoDB` • `MySQL` • `FAISS` • `Qdrant` • `PineCone`
 
 
 ## 🧩 LeetCode Stats
