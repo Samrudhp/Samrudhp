@@ -2,12 +2,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Samrudh%20P%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 ## 👋 Hey there, I’m Samrudh!  
-🔍 Passionate about **Generative AI, RAG (Retrieval-Augmented Generation), and AI/ML systems**  
-🧠 Exploring **deep learning, transformers, and multimodal AI**  
-⚡ Building **real-world GenAI projects** (Meeting Summarizer, Context-Aware Study Notes Generator, Multimodal Anomaly Detection)  
-☁️ Expanding into **Cloud Azure & DevOps** to scale AI solutions  
-👨‍💻 Mastered MERN stack 
-🤝 Open to collaboration on **AI research, GenAI tooling, and cloud-native projects** 
+- 🔍 Passionate about **Generative AI, RAG (Retrieval-Augmented Generation), and AI/ML systems**  
+- 🧠 Exploring **deep learning, transformers, and multimodal AI**  
+- ⚡ Building **real-world GenAI projects** ( Multimodal Anomaly Detection ,OnDevice-Multimodal-Agent , Legal-Case-Reterival-system )  
+- ☁️ Expanding into **Cloud Azure & DevOps** to scale AI solutions  
+- 👨‍💻 Mastered MERN stack 
+- 🤝 Open to collaboration on **AI research, GenAI tooling, and cloud-native projects** 
 
 ---
 
