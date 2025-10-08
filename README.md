@@ -34,9 +34,11 @@
 ✨ A few projects I’m proud of:  
 -  [**GenAI-powered-Anomaly-Detection-System**](https://github.com/Samrudhp/anomaly-detection-TriFusion) 
 -  [**OnDevice-Multimodal-Agent**](https://github.com/Samrudhp/OnDevice-Multimodal-Agent)
+-  [**GenAI-Powered EV Assistant with Dual RAG Architecture**](https://github.com/Samrudhp/GenAI-Powered_EV_Assistant_with_Dual_RAG_Architecture)
 -  [**Legal-Case-Reterival-system**](https://github.com/Samrudhp/LegalCase-Retrieval-System) 
 -  [**RAG-Powered-EduContent-Generator**](https://github.com/Samrudhp/EduSummaryV2)
 -  [**AI-Powered Meeting Analysis**](https://github.com/Samrudhp/SpeakScribe)
+
 
 ---
 
