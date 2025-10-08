@@ -36,6 +36,7 @@
 -  [**OnDevice-Multimodal-Agent**](https://github.com/Samrudhp/OnDevice-Multimodal-Agent)
 -  [**Legal-Case-Reterival-system**](https://github.com/Samrudhp/LegalCase-Retrieval-System) 
 -  [**RAG-Powered-EduContent-Generator**](https://github.com/Samrudhp/EduSummaryV2)
+-  [**AI-Powered Meeting Analysis**](https://github.com/Samrudhp/SpeakScribe)
 
 ---
 
