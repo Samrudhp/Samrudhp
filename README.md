@@ -2,7 +2,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Samrudh%20P%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 ## 👋 Hey there, I’m Samrudh!  
-- [Portfolio-Website](https://samrudhp.vercel.app/)
+<p align='center'>⚡ Portfolio-Website : (https://samrudhp.vercel.app/)</p>
+
 - 🔍 Passionate about **Generative AI, RAG (Retrieval-Augmented Generation), and AI/ML systems**  
 - 🧠 Exploring **deep learning, transformers, and multimodal AI**  
 - ⚡ Building **real-world GenAI projects** ( Multimodal Anomaly Detection ,OnDevice-Multimodal-Agent , Legal-Case-Reterival-system )  
