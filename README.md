@@ -2,7 +2,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Samrudh%20P%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 ## 👋 Hey there, I’m Samrudh!  
-<p align='center'>Portfolio Website: <a href="https://samrudhp.vercel.app/" target="_blank">https://samrudhp.vercel.app/</a></p>
 
 - Passionate about **Generative AI, RAG (Retrieval-Augmented Generation), and AI/ML systems**  
 - Exploring **deep learning, transformers, and multimodal AI**  
