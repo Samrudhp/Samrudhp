@@ -3,9 +3,9 @@
 -->
 ## 👋 Hey there, I’m Samrudh!  
 
-- Passionate about **Generative AI, RAG (Retrieval-Augmented Generation), and AI/ML systems**  
+- Passionate about **Generative AI, RAG (Retrieval-Augmented Generation), Agentic AI and AI/ML systems**  
 - Exploring **deep learning, transformers, and multimodal AI**  
-- Building **real-world GenAI projects** (Multimodal Anomaly Detection, OnDevice-Multimodal-Agent, Legal-Case-Retrieval-System)  
+- Building **real-world GenAI projects** 
 - Expanding into **Azure & DevOps** to scale AI solutions  
 - Mastered **MERN stack**  
 - Open to collaboration on **AI research, GenAI tooling, and cloud-native projects** 
