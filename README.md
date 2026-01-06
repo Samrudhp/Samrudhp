@@ -1,6 +1,6 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Samrudh%20P%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
-
+<!--![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Samrudh%20P%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+-->
 ## 👋 Hey there, I’m Samrudh!  
 
 - Passionate about **Generative AI, RAG (Retrieval-Augmented Generation), and AI/ML systems**  
@@ -23,17 +23,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samrudhp&theme=tokyo-night&area=true&hide_border=false" alt="Contribution Graph"/>
 </p>
-
----
-
-## Featured Projects
-   A few projects I’m proud of:  
-- [**GenAI-powered-Anomaly-Detection-System**](https://github.com/Samrudhp/anomaly-detection-TriFusion)  
-- [**OnDevice-Multimodal-Agent**](https://github.com/Samrudhp/OnDevice-Multimodal-Agent)  
-- [**GenAI-Powered EV Assistant with Dual RAG Architecture**](https://github.com/Samrudhp/GenAI-Powered_EV_Assistant_with_Dual_RAG_Architecture)  
-- [**Legal-Case-Retrieval-System**](https://github.com/Samrudhp/LegalCase-Retrieval-System)  
-- [**RAG-Powered-EduContent-Generator**](https://github.com/Samrudhp/EduSummaryV2)  
-- [**AI-Powered Meeting Analysis**](https://github.com/Samrudhp/SpeakScribe)  
 
 ---
 
@@ -69,4 +58,3 @@
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer)
