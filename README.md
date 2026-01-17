@@ -40,7 +40,17 @@
 
 ---
 
-## Tech Stack
+## 🏆 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/samrudhp?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats" width="500"/>
+
+</div>
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -78,11 +88,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
-
----
-
-## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/samrudhp?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 ---
 
